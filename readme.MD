@@ -1,6 +1,6 @@
-Проект Multiplication содержит функцию перемножения двух матриц с размерами M*K и K*N (простейщий алгоритм умножения строки на столбец без оптимизаций).
+Проект Multiplication содержит функцию перемножения двух матриц с размерами M*K и K*N (простейщий алгоритм умножения строки на столбец без оптимизаций) (файл \Matrix-mutiplication-tests\Multiplication\Multiplication.cpp).
 
-Проект UnitTest содержит тесты для проверки корректности работы функции.
+Проект UnitTest содержит тесты для проверки корректности работы функции (файл \Matrix-mutiplication-tests\UnitTest\UnitTest.cpp).
 
 Язык реализации С++ с помощью пространства имен Microsoft::VisualStudio::CppUnitTestFramework.
 Запустить тесты можно в MS Visual studio:
